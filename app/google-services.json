@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "236879978536",
+    "firebase_url": "https://chatappsanket.firebaseio.com",
+    "project_id": "chatappsanket",
+    "storage_bucket": "chatappsanket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236879978536:android:68e4899bdda48c8275551d",
+        "android_client_info": {
+          "package_name": "com.example.chatappsanket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236879978536-tgtac3qg476aic7nq04iit2s854a4akc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatappsanket",
+            "certificate_hash": "4dcafdc586d7da4d325f846fb06d0e5fd265c58b"
+          }
+        },
+        {
+          "client_id": "236879978536-9i4adebntch1qdanmtsv3ih0rev2q1j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC24vw3DsJiw9fdKclGeL4O3j8cR0HzENQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236879978536-9i4adebntch1qdanmtsv3ih0rev2q1j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
