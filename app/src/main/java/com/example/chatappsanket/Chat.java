@@ -66,6 +66,8 @@ public class Chat extends AppCompatActivity {
             }
         });
 
+        //addValueEventListener =  or
+        //addChildEventListener == both change data = livedata change
         reference1.addChildEventListener(new ChildEventListener() {
             @Override
             public void onChildAdded(DataSnapshot dataSnapshot, String s) {
